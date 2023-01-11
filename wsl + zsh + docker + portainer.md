@@ -174,3 +174,11 @@ At this point, you just need to connect to:
 
 [http://localhost:9000](http://localhost:9000/)
 
+## Acknowledgment
+https://dev.to/contactsunny/installing-zsh-and-oh-my-zsh-on-windows-11-with-wsl2-1p5i
+
+https://thenewstack.io/tutorial-manage-docker-swarm-with-portainer/
+
+https://docs.fuga.cloud/how-to-install-portainer-docker-ui-manager-on-ubuntu-20.04-18.04-16.04
+
+
